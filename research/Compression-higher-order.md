@@ -1,4 +1,4 @@
-Yes. I think that sentence may be the hinge connecting several of your theories.
+
 
 Its importance is that compression is no longer merely the reduction of complexity. It becomes a mechanism for constructing new complexity.
 
