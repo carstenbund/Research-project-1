@@ -93,6 +93,8 @@ This suggests that human symbolic development is not primarily the copying of sy
 
 ## Cultural development as symbolic-entity dynamics
 
+This section is also maintained as a [standalone research note](symbolic-entity-cultural-development.md) for investigation at cultural and historical scales.
+
 > **Cultural development can be investigated as the historical recurrence, interaction, selection, transformation, and disappearance of symbolic entities within changing networks of compatible mechanisms.**
 >
 > Changes in technology, institutions, and social organization alter the conditions under which symbolic structures can persist and become causally effective.
