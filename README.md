@@ -8,6 +8,8 @@ Research notes on **symbolic entities**, response profiles, social judgment, reg
 - [Research digest: Symbolic Entities, Response Hierarchies, and Underlying Coherence](research/2026-10-11-symbolic-entities-digest.md) — structured synthesis of the conversation, key definitions, research connections, limitations, and open questions.
 - [Discussion history (annotated)](research/2026-10-11-symbolic-entities-discussion.md) — chronological record of the user's contributions and the main assistant responses, including the original May 2025 essay quoted for reassessment.
 
+- [Refining the symbolic entity (annotated)](research/2026-10-11-symbolic-entity-refinement.md) — follow-up session with Claude: compatibility instead of reading, fossils, the minimal definition "an entity that only exists symbolically", incarnation, music as prime example, and a standard-view comparison.
+
 ## Provenance and scope
 
 These documents were assembled from a ChatGPT research conversation held across **October 11–12, 2026**. The digest is a research synthesis, **not an independently validated theory**. The discussion history is an **annotated reconstruction of the visible exchange**, **not a verbatim ChatGPT data export**. It distinguishes participant statements from reconstructed summaries.
