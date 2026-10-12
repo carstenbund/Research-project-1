@@ -4,6 +4,7 @@ Research notes on **symbolic entities**, response profiles, social judgment, reg
 
 ## Documents
 
+- [Symbolic Entity — Working Definition](research/symbolic-entity-definition.md) — concise working definition, boundaries, transmission model, and developmental implications.
 - [Research digest: Symbolic Entities, Response Hierarchies, and Underlying Coherence](research/2026-10-11-symbolic-entities-digest.md) — structured synthesis of the conversation, key definitions, research connections, limitations, and open questions.
 - [Discussion history (annotated)](research/2026-10-11-symbolic-entities-discussion.md) — chronological record of the user's contributions and the main assistant responses, including the original May 2025 essay quoted for reassessment.
 
