@@ -14,6 +14,8 @@ Research notes on **symbolic entities**, response profiles, social judgment, reg
 
 - [Scaling and Accumulated Coherence — Working Definition](research/scaling-and-accumulated-coherence-working-definition.md) — formal working proposition, five-stage progression, properties and testable qualifications.
 
+- [Accumulated Coherence in Humans](research/2026-10-15-accumulated-coherence-in-humans.md) — maps the nine-section Symbolic Field Theory outline to development, identity, trust, culture, and the scaling-versus-freedom question.
+
 ## Provenance and scope
 
 These documents were assembled from a ChatGPT research conversation held across **October 11–12, 2026**. The digest is a research synthesis, **not an independently validated theory**. The discussion history is an **annotated reconstruction of the visible exchange**, **not a verbatim ChatGPT data export**. It distinguishes participant statements from reconstructed summaries.
