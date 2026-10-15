@@ -10,6 +10,8 @@ Research notes on **symbolic entities**, response profiles, social judgment, reg
 
 - [Refining the symbolic entity (annotated)](research/2026-10-11-symbolic-entity-refinement.md) — follow-up session with Claude: compatibility instead of reading, fossils, the minimal definition "an entity that only exists symbolically", incarnation, music as prime example, and a standard-view comparison.
 
+- [Coherence Accumulation and Scaling](research/2026-10-15-coherence-accumulation-and-scaling.md) — thought experiment, repetition/variation/persistence/failure, how accumulated coherence may enable higher-level organization, and open questions.
+
 ## Provenance and scope
 
 These documents were assembled from a ChatGPT research conversation held across **October 11–12, 2026**. The digest is a research synthesis, **not an independently validated theory**. The discussion history is an **annotated reconstruction of the visible exchange**, **not a verbatim ChatGPT data export**. It distinguishes participant statements from reconstructed summaries.
