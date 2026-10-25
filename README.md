@@ -18,6 +18,8 @@ Research notes on **symbolic entities**, response profiles, social judgment, reg
 
 - [Top-Down Symbolic Enactment — Breakthrough Log](research/2026-10-25-top-down-symbolic-enactment-breakthrough-log.md) — chronological reconstruction of the move from compatible enactment to hidden maintenance, observer assumptions, prospective intervention, and higher-to-lower feedback that can regenerate its own enabling mechanism.
 
+- [Reflexive Symbolic Recursion — The Argument Documents Itself](research/2026-10-25-reflexive-symbolic-recursion-the-argument-documents-itself.md) — enacted examples, compression into symbolic description, bidirectional participation, and the research record as another incarnation of the process.
+
 - [Persistence, Surplus, and Responsibility — Research Bridge](research/2026-10-25-persistence-surplus-responsibility-bridge.md) — connects accumulated coherence with the surplus simulation's maintenance costs, shared enabling capacity, delayed consequences, Grace, and quantifiable causal participation.
 
 - [Accumulated Coherence in Humans](research/2026-10-15-accumulated-coherence-in-humans.md) — maps the nine-section Symbolic Field Theory outline to development, identity, trust, culture, and the scaling-versus-freedom question.
