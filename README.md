@@ -14,6 +14,8 @@ Research notes on **symbolic entities**, response profiles, social judgment, reg
 
 - [Scaling and Accumulated Coherence — Working Definition](research/scaling-and-accumulated-coherence-working-definition.md) — formal working proposition, five-stage progression, properties and testable qualifications.
 
+- [Symbolic Recursion, Intension, Consciousness, and Responsibility — Research Digest](research/2026-10-25-symbolic-recursion-intension-consciousness-digest.md) — October 24–25 discussion on scale-independent recursion, category change through compression, intension, consciousness as navigation, historical group organization, maintenance costs, and responsibility.
+
 - [Accumulated Coherence in Humans](research/2026-10-15-accumulated-coherence-in-humans.md) — maps the nine-section Symbolic Field Theory outline to development, identity, trust, culture, and the scaling-versus-freedom question.
 
 ## Provenance and scope
