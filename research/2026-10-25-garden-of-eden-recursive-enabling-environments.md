@@ -82,6 +82,69 @@ For clarity in future research, three time scales must remain distinct:
 
 Conscious construction of a school or protected research environment can plausibly accelerate *learning and cultural development* without demonstrating accelerated human genetic evolution. Acknowledging that distinction makes the proposed mechanism easier to investigate.
 
+## Manager Theory, Maslow, and the conscious direction of surplus
+
+The Garden of Eden principle now meets the [Manager Theory and origin of surplus](https://github.com/carstenbund/surplus-sim1/blob/main/research/01-manager-surplus.md). In that theory, the capitalized **Manager** is not a corporate job title. It names the human stewardship function that regulates a living organism, negotiates its surroundings and relationships, and directs the capacities at its disposal.
+
+The reinterpretation of Maslow's hierarchy is particularly useful here. It describes expanding **domains of stewardship**, not merely ascending personal desires:
+
+| Maslow domain | Enabling conditions initially provided by the garden | Responsibility progressively acquired by the Manager |
+| --- | --- | --- |
+| Physiological | Food, warmth, sleep, bodily care | Bodily regulation and upkeep |
+| Safety | Shelter, stable routines, protection | Regulation of surroundings and risk |
+| Belonging | Care, reliable relationships, shared practices | Reciprocity and social participation |
+| Esteem | Teaching, tools, opportunities to practice | Demonstrable competence and contribution |
+| Self-actualization | Time and room for exploration | Integration, self-direction, and deliberate development |
+
+The garden initially performs, through other people and institutions, functions that the developing Manager cannot yet carry alone. Development includes a **progressive transfer of stewardship**. A further transition occurs when a capable Manager not only maintains their own viability but becomes able to construct enabling conditions for someone else.
+
+### Surplus becomes directed capacity
+
+The surplus research separates durable capability, present availability, and the present burden of necessity and commitments:
+
+\[
+S_i(t)=C_i(t)\,A_i(t)\,[1-U_i(t)]
+\]
+
+Here \(C_i\) is capability, \(A_i\) its current availability, \(U_i\) the claimed share of deployable capacity, and \(S_i\) surplus available for enactment (componentwise when capability is heterogeneous). Shared support systems can reduce some immediate individual stewardship burdens and thereby free capacity. Conversely, reliance on externally supplied conditions can reduce practice in the delegated domain; this matters when the support is withdrawn.
+
+**Surplus does not select its own destination.** A conscious Manager can recognize alternative futures and deliberately direct some available capacity toward:
+
+- **maintenance:** preserving the existing body, institutions, infrastructure, skills, and common enabling conditions;
+- **examination and adaptation:** investigating and making possible trajectories legible, including the costs of acting on them;
+- **garden construction:** providing the protection, tools, time, relationships, and learning conditions within which future capabilities can emerge.
+
+These are distinct uses but not necessarily mutually exclusive. Nor is all care paid for out of surplus: essential provisioning and present obligations already contribute to a garden. The new proposition concerns the **conscious allocation of capacity that can genuinely be directed**, rather than treating all expenditure on children, schooling, or support as optional surplus.
+
+### Recursive stewardship
+
+```text
+Established coherence and shared enabling capacity
+               ↓
+Part of present necessity is reliably handled
+               ↓
+Deployable surplus becomes available
+               ↓
+Manager recognizes future conditions and directs capacity
+               ↙                              ↘
+Maintain present enabling structures     Build developmental gardens
+               ↘                              ↙
+           Further capabilities develop
+                         ↓
+      New Managers learn stewardship and construction
+                         ↺
+```
+
+The recursive transition is not merely *an individual becomes more capable*. It is *an individual or organization becomes more capable of creating the conditions in which others develop*. This provides a destination for surplus extending beyond the present generation.
+
+> **Conscious surplus-directed environmental creation:** The Manager can allocate capacity released by established coherence toward maintaining and deliberately constructing environments that make future differentiation possible. The emergence of further capable Managers may, in turn, improve the construction and maintenance of subsequent gardens.
+
+### What to observe
+
+The model can ask how much surplus is **available**, how much is **actually enacted**, and where it goes; how present upkeep and future-oriented environmental construction compete or reinforce one another; whether these expenditures produce measurable capability gains; and whether developed participants learn to reproduce the enabling environment. The decisive outcome is not only present performance but **regenerative developmental capacity**. A garden that consumes its own maintenance substrate or prevents the acquisition of independent stewardship may achieve impressive immediate results without sustaining the recursive process.
+
+**Source of the extension:** The October 25, 2026 discussion connected the Manager and Maslow's pyramid to the garden, then observed: “Now we also see where surplus is directed to consciously”. See also the [Persistence, Surplus, and Responsibility bridge](2026-10-25-persistence-surplus-responsibility-bridge.md).
+
 ## Maintenance, asymmetry, and exit from the garden
 
 The garden is sustained by activity that its inhabitants may not directly see. The child experiences shelter; someone else provisions it. The student experiences an institution; teachers, organizers, infrastructure, and wider society maintain it. The scientist experiences an operational laboratory; technicians and a resource network keep it usable.
