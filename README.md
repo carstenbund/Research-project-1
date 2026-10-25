@@ -16,6 +16,8 @@ Research notes on **symbolic entities**, response profiles, social judgment, reg
 
 - [Symbolic Recursion, Intension, Consciousness, and Responsibility — Research Digest](research/2026-10-25-symbolic-recursion-intension-consciousness-digest.md) — October 24–25 discussion on scale-independent recursion, category change through compression, intension, consciousness as navigation, historical group organization, maintenance costs, and responsibility.
 
+- [Garden of Eden — Recursive Enabling Environments](research/2026-10-25-garden-of-eden-recursive-enabling-environments.md) — adopts the ancient Garden of Eden image (described by the author as 4,000–6,000 years old, not coined here) to examine protected developmental conditions, recursive environment building, conscious cultivation, and maintenance dependencies.
+
 - [Top-Down Symbolic Enactment — Breakthrough Log](research/2026-10-25-top-down-symbolic-enactment-breakthrough-log.md) — chronological reconstruction of the move from compatible enactment to hidden maintenance, observer assumptions, prospective intervention, and higher-to-lower feedback that can regenerate its own enabling mechanism.
 
 - [Reflexive Symbolic Recursion — The Argument Documents Itself](research/2026-10-25-reflexive-symbolic-recursion-the-argument-documents-itself.md) — enacted examples, compression into symbolic description, bidirectional participation, and the research record as another incarnation of the process.
