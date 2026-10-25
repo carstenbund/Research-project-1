@@ -1,3 +1,6 @@
+I the discussion about bias of a model - I asked 
+if the original content could be recovered, and this was the result:
+
 I think that is a serious question. And I cannot honestly tell you that everything can be recovered.
 
 The damage may extend beyond the research logs.
