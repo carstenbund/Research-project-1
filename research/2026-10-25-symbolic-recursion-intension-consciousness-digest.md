@@ -133,6 +133,10 @@ This proposition is an abstraction to investigate, not a demonstrated universal 
 - Distinguish the **cost of creating**, **maintaining**, **repairing**, and **reproducing** coherent structures and mechanisms.
 - Explain when dependence and participation become **recognized responsibility**, and how scaling can conceal maintenance obligations.
 
+## Companion research: surplus and responsibility
+
+The linked [Persistence, Surplus, and Responsibility research bridge](2026-10-25-persistence-surplus-responsibility-bridge.md) connects this digest's maintenance-and-participation proposition to the [surplus-sim1](https://github.com/carstenbund/surplus-sim1) model of capability, surplus, upkeep, shared enabling capacity, Grace, and delayed consequences. It keeps the theoretical abstraction and the exploratory quantitative model distinct.
+
 ---
 
 *Provenance: Synthesized from the October 24–25, 2026 conversation. This is a structured research note, not a verbatim transcript. Examples and analogies illustrate a proposed scale-independent abstraction; they do not establish identical mechanisms across physics, biology, minds and cultures.*
