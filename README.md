@@ -30,6 +30,8 @@ Research notes on **symbolic entities**, response profiles, social judgment, reg
 
 - [Active Symbolic Constellations, Vantage Points, and Corrective Autonomy](research/2026-11-24-symbolic-constellations-perspectives-correction.md) — reconciles the November discussions with earlier research, documenting episode-level co-enactment, archetypal roles, partial perspectives, and the maintenance/dissent/non-domination connection.
 
+- [From the Alignment Market to Governing Enactment — Symbolic Proposals and Trajectory Entry](research/2026-11-24-alignment-market-symbolic-proposals-and-trajectories.md) — connects the 2025 alignment-market essay with staged symbolic invitation, initiation, group selection, evolving commitment, and the difference between voluntary entry and subsequent governance.
+
 ## Provenance and scope
 
 The initial digest and annotated discussion history were assembled from a ChatGPT research conversation held across **October 11–12, 2026**. Later notes cover subsequent conversations and linked research projects. These are research syntheses, **not independently validated theories**. The discussion history is an **annotated reconstruction**, **not a verbatim ChatGPT data export**, and distinguishes participant statements from reconstructed summaries.
