@@ -2,10 +2,38 @@
 
 **Date:** 24 November 2026  
 **Status:** Research reconciliation and provisional operational model, not an empirically validated theory  
-**Earlier source:** Carsten Bund, *Alignment Market: By Maslow's Pyramid*, 29 May 2025 (author-supplied text in the November 2026 research discussion; bibliographic and quoted-attribution details not independently verified here)  
+**Earlier sources:** Carsten Bund, *Born into the Bond: Responsibility, Blame, and the Inherited Terrain of Tribal Belonging* (12 May 2025), and *Alignment Market: By Maslow's Pyramid* (29 May 2025); both texts supplied by the author during the November 2026 research discussion (external publication details and third-party quotation attributions not independently verified here)  
 **Related:** [The Manager, the self, and governing symbolic entities](2026-11-24-manager-self-and-governing-symbolic-entities.md) · [Active Symbolic Constellations, Vantage Points, and Corrective Autonomy](2026-11-24-symbolic-constellations-perspectives-correction.md) · [Symbolic Entity — Working Definition](symbolic-entity-definition.md) · [Garden of Eden](2026-10-25-garden-of-eden-recursive-enabling-environments.md) · [Persistence, Surplus, and Responsibility](2026-10-25-persistence-surplus-responsibility-bridge.md)
 
 ## 1. What the 2025 essay already proposed
+
+### The May 12 precursor: inheritance before invitation
+
+The earlier essay, *Born into the Bond* (12 May 2025), examined **responsibility experienced before conscious agreement**. It described affective transmission through gestures, silence, ritual, pride, guilt, shame, loyalty, and the felt consequences of deviation. A child can experience an obligation as part of belonging before understanding the rule or identifying any contractual agreement. The essay called this an *affective architecture of responsibility* and questioned whether a group's apparent consensus could be maintained by conditional acceptance rather than reflective consent.
+
+This precursor was already discussed in the [October 11 symbolic-entities research digest](2026-10-11-symbolic-entities-digest.md#7-the-historical-dimension-and-the-may-2025-essay). That digest correctly recorded both its contribution and its **normative selection bias**: the essay foregrounded emotional captivity and gave insufficient attention to the same channels transmitting reliable care, trust, reciprocity, permission to disagree, and beneficial obligations. Its argument is a critique of coercive inherited affiliation, not a universal account of all symbolic inheritance.
+
+The November framework separates three questions the original essay tended to run together:
+
+1. **Transmission:** Which patterns and response expectations reach a developing host, possibly before explicit language or understanding?
+2. **Enactment and consequences:** Which patterns alter responses, dependencies, capacity, cooperation, and access to protection or resources?
+3. **Legitimacy and accountability:** When are inherited responsibilities reasonable, contestable, harmful, or unjustifiably coercive?
+
+The descriptive claim that a child acquires expectations through affective and relational consequences does not require the normative conclusion that every unnegotiated responsibility is illegitimate. Nor does a felt obligation by itself prove that a particular encoded symbolic entity was transmitted intact; indirect behavioral effects, selective reconstruction, and learned habits remain different possible descriptions.
+
+### The May 29 continuation: invitation after inheritance
+
+The *Alignment Market* essay shifts from obligations assigned through birth and inherited membership to those seemingly selected through affiliation. The *chooser* is not an unconditioned buyer: the manager arrives with an inherited repertoire, learned valuations, capabilities, dependencies, and socially produced criteria for recognizing an attractive offer. A new group can use the same affective channels—belonging, esteem, reassurance, fear of exclusion—that shaped the host's earlier development.
+
+The two essays therefore describe different **entry conditions into symbolic participation**, not necessarily different enactment mechanisms:
+
+**Born into the Bond:** delegated protection and group membership precede meaningful choice; expectations are learned while the young host depends on maintainers of its developmental environment.
+
+**Alignment Market:** a manager with greater operational capacity encounters alternative affiliations, but evaluates them using capabilities and criteria already shaped by earlier enactment.
+
+**Current theory:** inherited or invited patterns may both become governing. The key test is whether identifiable enactment changes the manager's *standards of evaluation*, not merely its outward compliance or the material incentives of staying.
+
+The Garden of Eden is thus the enabling **and interpretive** environment maintained by other managers. The later market is not an escape from symbolic inheritance; it offers possibilities that can reproduce, revise, compete with, or transform the patterns acquired there. These relationships do not require adding a new variable or redefining the symbolic entity.
 
 *Alignment Market: By Maslow's Pyramid* reframed affiliation as a possible exchange rather than only an inherited group obligation. The manager may accept a symbolic offer—safety, belonging, esteem, purpose, or access to opportunity—in exchange for time, conformity, allegiance, emotional work, or constrained autonomy. Maslow's domains operate as simultaneously negotiable requirements rather than a fixed ascending ladder.
 
@@ -109,4 +137,4 @@ The genuinely useful addition is the transition from *initial voluntary acceptan
 
 ---
 
-*Provenance: 2025 essay text supplied by the author during the 24 November 2026 conversation, reconciled with current Research Project 1 notes. Neither a verbatim historical transcript nor an independently verified interpretation of the five thinkers quoted in the original essay.*
+*Provenance: Both May 2025 essays were supplied in full by the author during the November 2026 conversation. Their relationship is a retrospective research reconciliation, not proof that either essay originally articulated the later operational theory. The interpretations of third-party thinkers quoted in the May 29 essay are not independently verified here.*
