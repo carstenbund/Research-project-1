@@ -47,6 +47,8 @@ This is a **proposed conceptual mechanism**, not a demonstrated law applying to 
 
 A practical research question follows: **Under what conditions does treating an existing coherent structure as a unit measurably reduce the work of constructing the next level, and which failures expose the dependencies that this compression conceals?**
 
+**Cross-scale boundary test (24 November 2026).** Size, encoded complexity, host dependency, distribution across hosts, and scale of consequences must be kept separate. Stabilized organization may permit higher-level compression without becoming one symbolic entity; an additional higher-order symbolic identity requires an identifiable, instantiated, reproducible pattern. The distinction is examined against genomes, programs, social rules, prions, and institutions in [Symbolic Entities Across Scales — Comparative Cases and Boundary Tests](2026-11-24-symbolic-entities-cross-scale-boundary-tests.md).
+
 ---
 
 *This working definition records the user's proposed formulation, with the scope and testing qualifications separated so that the central thesis remains intact.*
