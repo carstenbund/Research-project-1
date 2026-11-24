@@ -99,6 +99,10 @@ Useful counterevidence would include:
 
 Conversely, a convincing cross-scale comparison should specify *one shared relation* while keeping the substrate-specific mechanisms separate. Similarity of consequences is not enough.
 
+## Computational second lane
+
+Computer systems merit their own comparative note: enacted firmware and software can create execution machinery for further code, including interpreters, virtual machines, and computer viruses. This is a constructed nonbiological lane of symbolic execution, **not** a redefinition of the entity or proof that the physical computer equals its code. See [The Second Lane of Symbolic Execution — Constructed Computational Hosts](2026-11-24-second-lane-computational-symbolic-execution.md).
+
 ## 8. Relations to existing research and next step
 
 This file does **not** amend the core definition, establish all nonliving influences as symbolic, or replace the distinction between symbolic pattern, physical carrier, and enacted process. It extends the prior virus comparison and the question of higher-order scaling into a common **boundary-testing protocol**.
