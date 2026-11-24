@@ -14,6 +14,8 @@ Research notes on **symbolic entities**, response profiles, social judgment, reg
 
 - [Scaling and Accumulated Coherence — Working Definition](research/scaling-and-accumulated-coherence-working-definition.md) — formal working proposition, five-stage progression, properties and testable qualifications.
 
+- [Symbolic Entities Across Scales — Comparative Cases and Boundary Tests](research/2026-11-24-symbolic-entities-cross-scale-boundary-tests.md) — cross-media comparison of viral genomes, plasmids, software, music, prions, molecular negative controls, institutions, and higher-order identity, with five discriminating tests.
+
 - [Symbolic Recursion, Intension, Consciousness, and Responsibility — Research Digest](research/2026-10-25-symbolic-recursion-intension-consciousness-digest.md) — October 24–25 discussion on scale-independent recursion, category change through compression, intension, consciousness as navigation, historical group organization, maintenance costs, and responsibility.
 
 - [Garden of Eden — Recursive Enabling Environments](research/2026-10-25-garden-of-eden-recursive-enabling-environments.md) — adopts the ancient Garden of Eden image (described by the author as 4,000–6,000 years old, not coined here) to examine protected developmental conditions, recursive environment building, conscious cultivation, and maintenance dependencies.
