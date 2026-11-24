@@ -118,3 +118,9 @@ Whether particular cases belong to the same formal class, and which additional c
 Human ideas and cultural traditions are possible cases of symbolic entities, not definitions of the general class. Neither conscious meaning nor a cultural context is required by the definition.
 
 The cultural and historical application is developed separately in [Cultural Development as Symbolic-Entity Dynamics](symbolic-entity-cultural-development.md).
+
+## Comparative boundary tests
+
+**Added 24 November 2026.** The distinction between an encoded pattern, its carrier, compatible machinery, and resulting effects should also be examined outside human culture. The original viral-genome comparison provides a strong candidate; plasmids and executable programs offer additional cases. Prion conformational templating and ordinary receptor–ligand binding probe whether compatibility and structural propagation alone make the definition too broad. Institutions and civilizations probe the opposite boundary: a large collection of enacted symbolic patterns does not automatically constitute one higher-order entity.
+
+See [Symbolic Entities Across Scales — Comparative Cases and Boundary Tests](2026-11-24-symbolic-entities-cross-scale-boundary-tests.md) for the case matrix, discriminating protocol, and unresolved inclusion criteria. This cross-reference does **not** amend the definition above or assert that every nonliving influence on life is a symbolic entity.
