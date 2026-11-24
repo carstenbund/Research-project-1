@@ -26,6 +26,10 @@ Research notes on **symbolic entities**, response profiles, social judgment, reg
 
 - [Accumulated Coherence in Humans](research/2026-10-15-accumulated-coherence-in-humans.md) — maps the nine-section Symbolic Field Theory outline to development, identity, trust, culture, and the scaling-versus-freedom question.
 
+- [The Manager, the Self, and Governing Symbolic Entities](research/2026-11-24-manager-self-and-governing-symbolic-entities.md) — clarifies the distinction between the host, the self, and symbolic patterns governing criteria for role choice and adaptation.
+
+- [Active Symbolic Constellations, Vantage Points, and Corrective Autonomy](research/2026-11-24-symbolic-constellations-perspectives-correction.md) — reconciles the November discussions with earlier research, documenting episode-level co-enactment, archetypal roles, partial perspectives, and the maintenance/dissent/non-domination connection.
+
 ## Provenance and scope
 
 The initial digest and annotated discussion history were assembled from a ChatGPT research conversation held across **October 11–12, 2026**. Later notes cover subsequent conversations and linked research projects. These are research syntheses, **not independently validated theories**. The discussion history is an **annotated reconstruction**, **not a verbatim ChatGPT data export**, and distinguishes participant statements from reconstructed summaries.
