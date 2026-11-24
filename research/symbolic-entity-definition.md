@@ -91,6 +91,20 @@ Later, explicit symbols can become compact access points into relational structu
 
 This suggests that human symbolic development is not primarily the copying of symbols into an empty system. It is the progressive construction and revision of compatibility between an already responsive organism and an already symbolically structured environment.
 
+## Research inventory — dreams
+
+**Added 24 November 2026.** Dreams are included as a case for further investigation. A dream can be the first and only instance of a symbolic configuration. Later recall, narration, and recording are unnecessary for first instantiation. The dream report, where one exists, provides evidence about the earlier experience and can instantiate a further version of its pattern.
+
+The open question is which features of private experience constitute symbols and their configuration. A remembered phrase or structured encounter offers something to examine. When only a feeling remains, its effect on the Manager can motivate inquiry while leaving the identity or presence of a particular symbolic configuration uncertain.
+
+**Manager Theory proposition.** A symbolic encounter played out in a dream may change how the Manager evaluates a role, a commitment, or a possible future, even when the encounter is no longer recalled. Investigate whether an effect takes the form of a passing mood, a durable change in the felt cost of a choice, or a change in the criteria used to choose. Whether dream encounters can have stronger consequences than comparable waking encounters remains open. See [The Manager, the self, and governing symbolic entities](2026-11-24-manager-self-and-governing-symbolic-entities.md).
+
+### Starting points for investigation
+
+- **Jungian inquiry.** Read C. G. Jung’s “General Aspects of Dream Psychology” and “On the Nature of Dreams” for the idea that dreams can compensate for a one-sided waking attitude. Use this as a hypothesis about what a dream encounter might do. [Jung, *Dreams*](https://press.princeton.edu/books/ebook/9781400839148/dreams-0) · [Princeton introduction to Jung’s lectures](https://assets.press.princeton.edu/chapters/i13264.pdf)
+- **Occurrence and recall.** Siclari et al. distinguished reports of dream experience with content recall, experience without content recall, and no experience after experimentally timed awakenings. That distinction gives the inventory a way to treat reported occurrence and access to content separately. [Siclari et al., “The neural correlates of dreaming”](https://doi.org/10.1038/nn.4545)
+- **Waking effects.** A dream diary study found associations between reported dream affect and morning mood. The next question for this project is whether effects extend to later choices or standards of evaluation, including when dream content is inaccessible. That remains to be investigated. [“The Relationship Between Dreams and Subsequent Morning Mood Using Self-Reports and Text Analysis”](https://doi.org/10.1007/s42761-021-00080-8)
+
 ## Scope
 
 This is a conceptual framework rather than a claim that biological coding, language, music, software, and cultural transmission operate by identical mechanisms.
