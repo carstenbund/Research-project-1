@@ -13,6 +13,12 @@ Nach der Ausgangsbeobachtung (AR-00) wurde der Autor nach eigener Schilderung un
 
 Es handelt sich um zwei unterschiedliche Situationen, nicht um zwei bereits dokumentierte Fallverläufe. Die zweite Beobachtung ist eine mögliche Gegenbeobachtung zu einer pauschalen Annahme, das institutionelle System funktioniere überhaupt nicht. Sie ist kein Nachweis für seine allgemeine Funktionsfähigkeit. Der Brief wurde nicht unabhängig geprüft; ob der Autor die Adresse finden konnte oder die Person ihr Ziel erreichte, wurde nicht berichtet.
 
+### Ergänzung: mögliche Differenzierung institutioneller Zugangswege
+
+Nach ergänzender Schilderung des Autors enthielt der Aufnahmebrief ausdrücklich Angaben zur Altersgruppe und zum Fluchthintergrund der zweiten Person. Die konkreten Merkmale werden zum Schutz der Person in diesem öffentlichen Repository nicht wiedergegeben. Der Brief liegt der Forschung nicht zur unabhängigen Prüfung vor. Weder ein bestimmter rechtlicher Aufenthaltsstatus noch die Zugehörigkeit zu einem spezialisierten Programm lässt sich daraus gesichert ableiten.
+
+Für den Vergleich ist zu prüfen, ob allgemeine Wohnungsnotfallhilfe, fluchtbezogene Unterbringung oder altersbezogene Angebote unterschiedlichen Zuständigkeiten, Aufnahmebedingungen und Ressourcenzuweisungen folgen. Auch Sprache, Verständlichkeit und Orientierung können eine Rolle spielen, sind im Einzelfall aber nicht als Ursache nachgewiesen. Die Frage ist nicht, ob einer Person Hilfe vorenthalten werden sollte, sondern wie vergleichbarer Bedarf über verschiedene institutionelle Zugangswege gedeckt wird. Keine Rückschlüsse auf eine bevorzugte oder benachteiligte Behandlung aus den zwei Begegnungen.
+
 ## II. Schnittstelle zwischen formellem Zugang und tatsächlicher Nutzung
 
 Eine institutionelle Zusage ist von einer realisierten Leistung zu unterscheiden:

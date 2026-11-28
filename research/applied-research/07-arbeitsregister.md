@@ -18,6 +18,8 @@ Stand: 2026-11-28
 
 | WP-10 | Freiwillige Interviews und kontrastierende Zugangsverläufe untersuchen (AR-08). | Anonymisierte Aussagen, getrennt nach Beobachtung, Selbstauskunft und Interpretation; ggf. allgemeine Prozessfragen. | Offen; keine Interviews durchgeführt |
 
+| WP-11 | Institutionelle Zugangswege nach Bedarf, Alter und aufenthaltsrechtlicher Situation vergleichen. | Zuständigkeiten, Kriterien, Ressourcenbindungen und tatsächliche Übergänge; allgemeine Informationen bei Trägern und Selbstvertretungen einholen. | Offen |
+
 ## II. Evidenzregister
 
 | ID | Art | Inhalt | Aussagegrenze |
@@ -28,6 +30,8 @@ Stand: 2026-11-28
 | E-04 | Rechercheeinstieg | Verfassungsrahmen, Wohnungslosenberichte, Hilfsorganisationen. | Aktuelle Quellen und ihre konkreten Aussagen noch systematisch prüfen. |
 
 | E-05 | Beobachtung, Bericht des Autors vom 28.11.2026 | Zweite Begegnung unmittelbar nach E-01: wohnungsloser Mensch fragt nach der Adresse aus einem Aufnahmebrief für ein institutionelles Wohnprojekt. | Brief nicht unabhängig geprüft; tatsächliche Ankunft, Aufnahme, Dauer und Verlauf unbekannt. Keine Adresse oder Personendaten veröffentlicht. |
+
+| E-06 | Ergänzende Schilderung des Autors, 28.11.2026 | Der Aufnahmebrief aus E-05 enthielt ausdrücklich alters- und fluchtbezogene Angaben. | Nicht unabhängig geprüft; genaue Angaben aus Datenschutzgründen nicht veröffentlicht. Kein Nachweis eines besonderen Leistungsanspruchs oder Aufnahmewegs. |
 
 Neue Evidenz erhält Datum, Quelle, Methode, Aussagegrenze und Zuordnung zu einer Hypothese. Keine personenbezogenen Falldaten eintragen.
 
