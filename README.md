@@ -38,6 +38,8 @@ Research notes on **symbolic entities**, response profiles, social judgment, reg
 
 - [Comparative Management Research](research/comparative-management/README.md) — working index of 60 individual/corporate functional correspondences, nine literature directions, eight candidate mechanisms and twelve research work packages; interim store pending possible separation.
 
+- [Applied Research — Sozialstaat, Surplus und gesellschaftliche Wahrnehmung](research/applied-research/README.md) — German-language applied research case, four research strands, chain of blindness hypothesis, initiative and evidence register; distinct from foundational theory.
+
 ## Provenance and scope
 
 The initial digest and annotated discussion history were assembled from a ChatGPT research conversation held across **October 11–12, 2026**. Later notes cover subsequent conversations and linked research projects. These are research syntheses, **not independently validated theories**. The discussion history is an **annotated reconstruction**, **not a verbatim ChatGPT data export**, and distinguishes participant statements from reconstructed summaries.
