@@ -33,4 +33,8 @@ Rechercheeinstiege: [Gangway](https://gangway.de/), [Berliner Stadtmission](http
 
 Keine Namen, Gesichter, Diagnosen, exakten Schlafplatzdaten oder individuellen Fallakten in einem öffentlichen Repository. Keine Fotos ohne angemessene Einwilligung veröffentlichen. Hilfe nicht von einem Interview abhängig machen. Ablehnung respektieren; professionelle Hilfe nicht ersetzen.
 
+## V. Ergänzende Beobachtung und nächste Erhebung
+
+Eine zweite Begegnung unmittelbar nach der Ausgangsbeobachtung betraf nach Schilderung des Autors einen wohnungslosen Menschen mit einem Aufnahmebrief für ein institutionelles Wohnprojekt, der nach der darin angegebenen Adresse fragte. Dies ist ein eigenständiger Fall, kein Nachweis einer erfolgreichen Unterbringung. Siehe [AR-08: Zwei Begegnungen und Interviewleitfaden](08-zwei-begegnungen-und-interviews.md). Ein freiwilliges Interview ist der nächste vorgeschlagene Erkenntnisschritt, nicht Voraussetzung für Hilfe.
+
 [Zur Übersicht](README.md)

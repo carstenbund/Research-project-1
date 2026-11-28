@@ -21,6 +21,8 @@ Die Untersuchung soll Erkenntnis und praktische Hilfe verbinden, ohne den Einzel
 | AR-06 | [Surplus, Selbstverständnis und Korrekturfähigkeit](06-surplus-und-korrekturfaehigkeit.md) | Welche Kapazitäten und Rückkopplungen werden mobilisiert oder verbraucht? |
 | AR-07 | [Arbeitsregister](07-arbeitsregister.md) | Welche Fragen, Evidenzen und Entscheidungen sind offen? |
 
+| AR-08 | [Zwei Begegnungen und Interviewleitfaden](08-zwei-begegnungen-und-interviews.md) | Wie unterscheiden sich reale Zugangswege und wo ist individuelle Hilfe wirksam? |
+
 ## Verhältnis zur Grundlagenforschung
 
 Applied Research ist eine eigenständige Ebene zur Untersuchung konkreter Fälle. Die vorhandenen Theorien dienen als heuristische Werkzeuge. Erst ein neu identifizierter, abgrenzbarer und hinreichend geprüfter abstrakter Mechanismus kann eine Erweiterung der Grundlagenforschung rechtfertigen. Es werden keine bestehenden Definitionen geändert.

@@ -16,6 +16,8 @@ Stand: 2026-11-28
 | WP-08 | Lokale Intervention mit Partnern prüfen. | Abgegrenztes Pilotprojekt, Aufwand und Wirkung. | Offen |
 | WP-09 | Abstrakten Transfer zur Manager-/Surplus-Theorie prüfen. | Entscheidung mit Begründung. | Zurückgestellt bis Evidenz vorliegt |
 
+| WP-10 | Freiwillige Interviews und kontrastierende Zugangsverläufe untersuchen (AR-08). | Anonymisierte Aussagen, getrennt nach Beobachtung, Selbstauskunft und Interpretation; ggf. allgemeine Prozessfragen. | Offen; keine Interviews durchgeführt |
+
 ## II. Evidenzregister
 
 | ID | Art | Inhalt | Aussagegrenze |
@@ -24,6 +26,8 @@ Stand: 2026-11-28
 | E-02 | Primärfrage | Vier Forschungsfragen des Autors, Gespräch vom 28.11.2026. | Forschungsauftrag, kein empirisches Ergebnis. |
 | E-03 | Hypothese | Schmerz, geforderte Ignoranz, Kette der Blindheit. | Mechanismus noch nicht nachgewiesen. |
 | E-04 | Rechercheeinstieg | Verfassungsrahmen, Wohnungslosenberichte, Hilfsorganisationen. | Aktuelle Quellen und ihre konkreten Aussagen noch systematisch prüfen. |
+
+| E-05 | Beobachtung, Bericht des Autors vom 28.11.2026 | Zweite Begegnung unmittelbar nach E-01: wohnungsloser Mensch fragt nach der Adresse aus einem Aufnahmebrief für ein institutionelles Wohnprojekt. | Brief nicht unabhängig geprüft; tatsächliche Ankunft, Aufnahme, Dauer und Verlauf unbekannt. Keine Adresse oder Personendaten veröffentlicht. |
 
 Neue Evidenz erhält Datum, Quelle, Methode, Aussagegrenze und Zuordnung zu einer Hypothese. Keine personenbezogenen Falldaten eintragen.
 
